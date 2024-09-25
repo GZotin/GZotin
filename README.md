@@ -4,4 +4,4 @@
   - CFD
   - Heat Transfer
   - CAE Meshing
-- My LinkedIn profile: https://www.linkedin.com/in/gustavozotin/
+- My LinkedIn profile: https://www.linkedin.com/in/gczotin
