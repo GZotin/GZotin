@@ -1,4 +1,4 @@
-- Mechanical Engineering from UTC
+- Mechanical engineer
 - Fields of interest:
   - CFD
   - Heat Transfer
