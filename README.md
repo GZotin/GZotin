@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @GZotin
-- Mechanical Engineering student at Federal University of Itajubá (Brazil) and at University of Technology of Compiègne (France)
+- Mechanical Engineering from UTC
 - Fields of interest:
   - CFD
   - Heat Transfer
